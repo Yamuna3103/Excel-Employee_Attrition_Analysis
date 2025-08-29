@@ -25,7 +25,7 @@ This project analyzes **employee attrition data** using Excel and presents insig
 ---
 
 ## 📸 Dashboard Preview  
-[HR_Attrition_CleanData.xlsx](Employee attrition.jpg)
+![Dashboard](Employee_attrition.jpg)
 
 ---
 
